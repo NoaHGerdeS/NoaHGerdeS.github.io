@@ -1,0 +1,40 @@
+.nav_bar {
+    border-bottom: 1px solid mediumvioletred;
+}
+
+.nav_bar a {
+    font-size: 2.5rem;
+    text-decoration: none;
+    font-family: monospace;
+    color: mediumvioletred;;
+}
+
+#title_name {
+    font-size: 3rem;
+    font-family: monospace;
+    color: mediumvioletred;
+    text-align: left;
+}
+
+.homepage_project_image {
+    max-width: 400px;
+    max-height: 400px;
+}
+.project_card_name  {
+ text-size-adjust: 2rem;
+    text-align: left;
+    font-family: monospace;
+    color: mediumvioletred;
+}
+
+.project_card_about {
+    font-size: x-large;
+    text-align: left;
+    font-family: monospace;
+    margin-top: 0%;
+    color: mediumvioletred;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
